@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {}
+    "a:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {}
   },
   "projects": {
-    "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {
+    "a:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+        "projectUniqueName": "a:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
         "projectName": "RestWithASPNET",
-        "projectPath": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+        "projectPath": "a:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
         "packagesPath": "C:\\Users\\Erick\\.nuget\\packages\\",
-        "outputPath": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\obj\\",
+        "outputPath": "a:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

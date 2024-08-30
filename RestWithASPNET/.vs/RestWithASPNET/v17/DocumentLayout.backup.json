@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\services\\implementations\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\services\\implementations\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\restwithaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\restwithaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D63F0822-07DE-428E-B8DD-2C4C309E52DA}|RestWithASPNET\\RestWithASPNET.csproj|a:\\criando apis\\learning-csharp-api\\restwithaspnet\\restwithaspnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,15 +38,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:50:40.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Services\\Implementations\\IPersonService.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Services\\Implementations\\IPersonService.cs",
+              "ToolTip": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Services\\Implementations\\IPersonService.cs",
+              "RelativeToolTip": "RestWithASPNET\\Services\\Implementations\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:47:08.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestWithASPNET",
+              "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNET\\RestWithASPNET.csproj",
+              "ToolTip": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+              "RelativeToolTip": "RestWithASPNET\\RestWithASPNET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T22:46:37.348Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Model\\Person.cs",
+              "ToolTip": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNET\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:44:40.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RestWithASPNET\\Properties\\launchSettings.json",
@@ -38,25 +106,24 @@
               "RelativeToolTip": "RestWithASPNET\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T22:25:35.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T22:25:35.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\CalculatorController.cs",
-              "ToolTip": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "RestWithASPNET\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAwEwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\PersonController.cs",
+              "ToolTip": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNET\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T17:50:14.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\Criando APIs\\learning-csharp-api\\RestWithASPNET\\RestWithASPNET\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
@@ -64,8 +131,7 @@
               "RelativeToolTip": "RestWithASPNET\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T03:44:40.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T03:44:40.259Z"
             }
           ]
         }
